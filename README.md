@@ -23,7 +23,7 @@ Lets try being **bold** and _italic_
 And the last one is a LiSt:
 
 1. wows
-   a) wow1
-   b) wow2
-   c) wow3
+   1. wow1
+   1. wow2
+   1. wow3
 2. Oh no
